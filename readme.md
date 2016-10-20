@@ -1,6 +1,6 @@
 #Caspar CG Simple C# Client
 
-![alt tag](https://raw.githubusercontent.com/aswzen/casparsimplecsharp/master/sc.jpg)
+![alt tag](https://raw.githubusercontent.com/aswzen/CasparCG-CSharp-Client/master/sc.png)
 
 This is a simple sample of TCP Connection command to Caspar CG Server using C# 
 
