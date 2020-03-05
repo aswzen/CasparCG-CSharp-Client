@@ -1,8 +1,9 @@
-#Caspar CG Simple C# Client
+# Caspar CG Simple C# Client
 
 ![alt tag](https://raw.githubusercontent.com/aswzen/CasparCG-CSharp-Client/master/sc.png)
 
-This is a simple sample of TCP Connection command to Caspar CG Server using C# 
+This is a simple sample of TCP Connection command to Caspar CG Server using C#, 
+**I Made it as simple as possible**
 
 ## Build with
 
